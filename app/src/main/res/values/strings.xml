@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="topBar">SuperHeroes</string>
+    <string name="topBarDays">30 Days Of Wellness</string>
+
+    <string name="hero1">Nick The Night and Day</string>
+    <string name="hero2">Reality Protector</string>
+    <string name="hero3">Andre the Giant</string>
+    <string name="hero4">Benjamin the Brave</string>
+    <string name="hero5">Magnificent Mar</string>
+    <string name="hero6">Dynamic Yasmin</string>
+
+    <string name="description1">The Jetpack Hero</string>
+    <string name="description2">Understands the absolute truth</string>
+    <string name="description3">Mimics the light and night to blend in</string>
+    <string name="description4">Effortlessly glides in to save the day</string>
+    <string name="description5">Harness the power of canary to develop bravly</string>
+    <string name="description6">Ability to shift to any from and energize</string>
+
+    <string name="dayNumber">Day %d</string>
+
+    <string name="dayTitle1">Lorem ipsum dolor sit amet</string>
+    <string name="dayTitle2">consectetur adipiscing elit</string>
+    <string name="dayTitle3">Aenean cursus lacus sed</string>
+    <string name="dayTitle4">non hendrerit dui pulvinar</string>
+    <string name="dayTitle5">Donec dictum felis et tellus</string>
+    <string name="dayTitle6">Ut at arcu vestibulum</string>
+    <string name="dayTitle7">Suspendisse interdum magna</string>
+    <string name="dayTitle8">Vestibulum sed nibh at</string>
+    <string name="dayTitle9">Sed quis tortor pretium augue</string>
+    <string name="dayTitle10">Mauris laoreet nisi sit</string>
+
+    <string name="dayBody2">In at eros sodales, varius sapien eu, mollis augue.
+Vestibulum ac felis egestas, pellentesque erat at, luctus nulla.
+Quisque dictum ex sit amet mauris congue tincidunt.</string>
+    <string name="dayBody3">In at eros sodales, varius sapien eu, mollis augue.
+Vestibulum ac felis egestas, pellentesque erat at, luctus nulla.
+Quisque dictum ex sit amet mauris congue tincidunt.</string>
+    <string name="dayBody4">In at eros sodales, varius sapien eu, mollis augue.
+Vestibulum ac felis egestas, pellentesque erat at, luctus nulla.
+Quisque dictum ex sit amet mauris congue tincidunt.</string>
+    <string name="dayBody1">In at eros sodales, varius sapien eu, mollis augue.
+Vestibulum ac felis egestas, pellentesque erat at, luctus nulla.
+Quisque dictum ex sit amet mauris congue tincidunt.</string>
+    <string name="dayBody5">In at eros sodales, varius sapien eu, mollis augue.
+Vestibulum ac felis egestas, pellentesque erat at, luctus nulla.
+Quisque dictum ex sit amet mauris congue tincidunt.</string>
+    <string name="dayBody6">In at eros sodales, varius sapien eu, mollis augue.
+Vestibulum ac felis egestas, pellentesque erat at, luctus nulla.
+Quisque dictum ex sit amet mauris congue tincidunt.</string>
+    <string name="dayBody7">In at eros sodales, varius sapien eu, mollis augue.
+Vestibulum ac felis egestas, pellentesque erat at, luctus nulla.
+Quisque dictum ex sit amet mauris congue tincidunt.</string>
+    <string name="dayBody8">In at eros sodales, varius sapien eu, mollis augue.
+Vestibulum ac felis egestas, pellentesque erat at, luctus nulla.
+Quisque dictum ex sit amet mauris congue tincidunt.</string>
+    <string name="dayBody9">In at eros sodales, varius sapien eu, mollis augue.
+Vestibulum ac felis egestas, pellentesque erat at, luctus nulla.
+Quisque dictum ex sit amet mauris congue tincidunt.</string>
+    <string name="dayBody10">In at eros sodales, varius sapien eu, mollis augue.
+Vestibulum ac felis egestas, pellentesque erat at, luctus nulla.
+Quisque dictum ex sit amet mauris congue tincidunt.</string>
+</resources>
